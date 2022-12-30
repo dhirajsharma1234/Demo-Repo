@@ -34,7 +34,7 @@ const str = "hariiissh";
 // }
 // console.log(s);
 
-//?largest element in an array
+//?largest elements in an array
 // let arr = [81, 2, 16, 9, 2];
 // let gt = arr[0];
 
